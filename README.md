@@ -15,5 +15,9 @@ npm install
 set REACT_NATIVE_PACKAGER_HOSTNAME='your-ip-address-or-hostname'
 npm start
 ```
-
 Happy Coding!
+## Credits
+
+- [Garik Harutyunyan](https://github.com/GHarutyunyan)
+- [Lionix Team](https://github.com/lionix-team)
+
