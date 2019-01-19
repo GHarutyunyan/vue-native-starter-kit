@@ -15,6 +15,7 @@ npm install
 set REACT_NATIVE_PACKAGER_HOSTNAME='your-ip-address-or-hostname'
 npm start
 ```
+For the environment, we suggesting to use [Expo.io](https://expo.io/) and [Genymotion](https://docs.expo.io/versions/v26.0.0/workflow/genymotion) emulator.
 Happy Coding!
 ## Credits
 
